@@ -1,7 +1,7 @@
 # Xtext-project
 Created an Xtext project from scratch that parses books and creates bibliographies. 
-**
-Motivation**
+
+# Motivation
 The motivation for this project was to show how NoSQL technology underpins key agile practices and architectural properties and how how agility is enhanced by software production automation.
 
 
